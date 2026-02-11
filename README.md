@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Aishwary, a bioinformatcian based in Italy. I like turning messy sequencing data into clean, meaningful biological stories and keeping pipelines simple, reproducible, and reliable.
+I'm Aishwary, a bioinformatician based in Italy. I like turning messy sequencing data into clean, meaningful biological stories and keeping pipelines simple, reproducible, and reliable.
 
 ## Projects I've worked on
 - **Bulk RNA-Seq** - Master's thesis project where I performed sequence pre-processing all the way to gene expression and functional interpretation from 183 Multiple Sclerosis Patient samples.
